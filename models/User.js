@@ -21,6 +21,23 @@ const UserSchema = new mongoose.Schema({
         type : String,
         required : [true,"Please provide a phone no."],
     },
+    userID : {
+        type : String,
+        required : false
+    },
+
+    bloodGroup : {
+        type : String,
+        required : false
+    },
+    param1 : [Number],
+    param2 : [Number],
+
+    moreInfo : {
+        type : String,
+        required : false
+    },
+
     password: {
         type : String,
         required : [true,"Please provide a password"],
@@ -33,7 +50,7 @@ const UserSchema = new mongoose.Schema({
     },
     resetPasswordToken : String,
     resrtPasswordExpire : Date
-})
+},{timestamps: true})
 
 UserSchema.pre("save",async function(next){
     if(!this.isModified("password")){
