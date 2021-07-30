@@ -1,0 +1,10 @@
+.card-post{
+    box-shadow:0 14px 20px rgba(71, 0, 0, 0.3);
+    border:rgb(214, 1, 1) solid 4px !important;
+    border-radius: 10px !important;
+}
+.card-post:hover{
+    transform: scale(1.1);
+    box-shadow:0 14px 16px rgba(112, 2, 2, 0.3);
+
+}
