@@ -15,6 +15,7 @@ import Variation from './components/Variation';
 import Error from './components/Error';
 import Chat from './components/Chat';
 import Feed from './components/Feed';
+import './App.css';
 import {Route,Switch, useHistory} from 'react-router-dom';
 import './App.css';
 

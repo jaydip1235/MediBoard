@@ -220,7 +220,7 @@ function Feed() {
                 <DialogTitle id="alert-dialog-title">{"Do you surely want to delete this post ?"}</DialogTitle>
                 <DialogContent>
                     <DialogContentText id="alert-dialog-description">
-                        All the informations will be deleted!
+                        All the informations will be deleted permanently!
                     </DialogContentText>
                 </DialogContent>
                 <DialogActions>

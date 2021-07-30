@@ -36,7 +36,7 @@ function Contact() {
                 setSucc("✔ Mail sent");
                 setTimeout(() => {
                     history.push('/');
-                }, 5000);
+                }, 3000);
             }
         } catch (error) {
             setWarn("❌ Something went wrong");
@@ -81,7 +81,7 @@ function Contact() {
                                     </div>
                                 </div>
                                 <div className="form-group">
-                                    <label className="control-label col-sm-2" htmlFor="comment">Comment:</label>
+                                    <label className="control-label col-sm-2" htmlFor="comment">Message:</label>
                                     <div className="col-sm-10">
                                         <textarea className="form-control" rows={5} id="comment" value={message} onChange={(e) => setMessage(e.target.value)} />
                                     </div>
