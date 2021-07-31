@@ -11,7 +11,7 @@ http://medi-board.herokuapp.com/
 ‣ Authenticated user will be able to upload their medical details and they will be able to manage or edit it.
 
 
-‣ Each user will be able to see other’s medical records with the unique 5 lettered UserID, but not able to edit or modify it(This feature in mainly for doctors and healthcare workers who want to see patient medical record to have a clear vison).
+‣ Each user will be able to see other’s medical records with the unique 5 lettered UserID, but not able to edit or modify it. The parameters on the profile page are recent updated parameters(This feature in mainly for doctors and healthcare workers who want to see patient medical record to have a clear vison).
 
 
 ‣ They will also be able to view the graphical analysis of various parameters with time(as of now showed 2 parameters).
