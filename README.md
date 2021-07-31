@@ -8,29 +8,29 @@ http://medi-board.herokuapp.com/
 • [Jaydip Dey](https://github.com/jaydip1235)
 
 # Features
-‣ Authenticated user will be able to upload their medical details and they will be able to manage or edit it.
+‣ Authenticated users can upload their medical details and they can manage or edit it.
 
 
-‣ Each user will be able to see other’s medical records with the unique 5 lettered UserID, but not able to edit or modify it. The parameters on the profile page are recent updated parameters(This feature in mainly for doctors and healthcare workers who want to see patient medical record to have a clear vison).
+‣ Each user can see other’s medical records with the unique 5 lettered UserID, but can not edit or modify it. The parameters on the profile page are recent updated parameters(This feature in mainly for doctors and healthcare workers who want to see patient's medical records to have a clear vison).
 
 
-‣ They will also be able to view the graphical analysis of various parameters with time(as of now showed 2 parameters).
+‣ They can also view the graphical analysis of various parameters with time(as of now showed 2 parameters).
 
 
-‣ User if want can delete their account if they want.
+‣ Users can delete their accounts if they want.
 
 
-‣ Implementation of forgot password feature and Mobile no. verification to prevent fake users as much as possible.
+‣ Implementation of forgot password feature and mobile no. verification to prevent fake users as much as possible.
 
 
-‣ User can also get an appointment through chatbot which will be mailed to them after appointment.Reappointment cannot be done within 24 hrs of first appointment.
+‣ Users can also get an appointment through chatbot which will be mailed to them after appointment. Reappointment cannot be done within 24 hrs of first appointment.
 
 
-‣ They will also be able to contact us through email for any query.
+‣ They can to contact us through email for any query.
 
 
-‣ Logged In users can post their need and other users will be able to respond to post.
-And their further communications are performed through mail sent from our website.
+‣ Logged In users can post their need and other users can respond to their posts.
+And their further communications can be performed through mail sent from our website.
  
  #### P.S : More features are to be added with time.
 
