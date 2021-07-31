@@ -1,0 +1,16 @@
+.searchInp::placeholder{
+    color: rgba(255, 255, 255, 0.534);
+}
+.hd-1{
+    font-size: 2.5rem !important;
+}
+.hd-2{
+    font-size: 2rem !important;
+}
+.hd-3{
+    font-size: 3rem !important;
+}
+
+.main-head{
+    background-color: rgba(255, 255, 255, 0.719) !important;
+}
