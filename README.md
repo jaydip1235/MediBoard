@@ -23,16 +23,16 @@ http://medi-board.herokuapp.com/
 ‣ Implementation of forgot password feature and mobile no. verification to prevent fake users as much as possible.
 
 
-‣ Users can also get an appointment through chatbot which will be mailed to them after appointment. Reappointment cannot be done within 24 hrs of first appointment.
+‣ Users can also get an appointment through chatbot which will be mailed to them after appointment. Reappointment can not be done within 24 hours of first appointment.
 
 
-‣ They can to contact us through email for any query.
+‣ They can also contact us through email for any query.
 
 
 ‣ Logged In users can post their need and other users can respond to their posts.
 And their further communications can be performed through mail sent from our website.
  
- #### P.S : More features are to be added with time.
+ #### P.S : More features will be added with time.
 
  ## Screenshots
 
