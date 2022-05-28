@@ -30,6 +30,12 @@ function Navbar() {
               <NavLink className="nav-link" exact to="/feed">Feed</NavLink>
             </li>
             <li className="nav-item">
+              <NavLink className="nav-link" exact to="/disease">Disease</NavLink>
+            </li>
+            <li className="nav-item">
+              <NavLink className="nav-link" exact to="/nlp">NLP</NavLink>
+            </li>
+            <li className="nav-item">
               <NavLink className="nav-link" exact to="/about">About</NavLink>
             </li>
             <li className="nav-item">

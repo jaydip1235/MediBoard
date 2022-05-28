@@ -27,7 +27,10 @@ function About() {
                                 ‣ Implementation of forgot password feature and Mobile no. verification.<br/>
                                 ‣ User can also get an appointment through chatbot which will be mailed to them after appointment.<br/>
                                 ‣ They will also be able to contact us through email for any query.<br/>
-                                ‣ Logged In users can post their need and other users will be able to respond to post. ‣ <br/>And their further communications are performed through mail sent from our website.</p>
+                                ‣ Logged In users can post their need and other users will be able to respond to post.<br/>
+                                ‣ And their further communications are performed through mail sent from our website.<br/>
+                                ‣ User will be able to get the probability of various disease from the symptoms and text (NLP).
+                                </p>
                                 <div className="about-icons">
                                     <ul >
                                         <li><a href="https://www.facebook.com/" target="_blank"><FacebookIcon style={{ color: "red", fontSize: "50px", margin: "6px" }} /></a> </li>

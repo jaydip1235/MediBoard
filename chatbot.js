@@ -8,6 +8,7 @@ const configuration = {
     client_email: dialogflowConfig.client_email,
   }
 };
+// console.log(dialogflowConfig.private_key);
 
 
 const sessionId = "12345";

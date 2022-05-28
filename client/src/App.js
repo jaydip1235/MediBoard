@@ -19,6 +19,8 @@ import Feed from './components/Feed';
 import './App.css';
 import {Route,Switch, useHistory} from 'react-router-dom';
 import './App.css';
+import Disease from './components/Disease';
+import Nlp from './components/Nlp';
 
 function App() {
   return (
@@ -39,6 +41,8 @@ function App() {
     <Route exact path = "/variation/:userID" component={Variation}/>
     <Route exact path = "/passwordreset/:resetToken" component={Resetpassword}/>
     <Route exact path='/chatbot' component={Chat}/>
+    <Route exact path='/disease' component={Disease}/>
+    <Route exact path='/nlp' component={Nlp}/>
     <Route exact path='/errordoctor'component={ErrorDoctor}/>
     <Route component={Error}/>
     </Switch>

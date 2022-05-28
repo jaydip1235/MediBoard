@@ -50,7 +50,7 @@ const Chat = props => {
     };
 
     axios
-      .post("https://medi-board.herokuapp.com/chatbot", data)
+      .post("/chatbot", data)
       .then(response => {
         let resp = response.data.message.fulfillmentText;
         console.log(resp);
