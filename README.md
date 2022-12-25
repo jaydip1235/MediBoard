@@ -1,6 +1,6 @@
 
 # Website link of MediBoard
-http://medi-board.herokuapp.com/
+https://medi-board.netlify.app/
 
 # Developers
 • [Archan Banerjee](https://github.com/ArchanJS)
